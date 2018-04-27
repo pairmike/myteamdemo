@@ -1,0 +1,133 @@
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\roslyn\csc.exe
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\roslyn\System.Collections.Immutable.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\roslyn\System.Reflection.Metadata.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\roslyn\vbc.exe
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\roslyn\VBCSCompiler.exe
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\roslyn\VBCSCompiler.exe.config
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\MyTeamDemo.dll.config
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\MyTeamDemo.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\MyTeamDemo.pdb
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\Microsoft.Extensions.DependencyInjection.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\Microsoft.OData.Core.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\Microsoft.OData.Edm.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\Microsoft.Spatial.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\Newtonsoft.Json.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\System.Net.Http.Formatting.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\System.Web.Http.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\System.Web.Http.WebHost.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\System.Web.OData.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\Microsoft.Extensions.DependencyInjection.xml
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\Microsoft.OData.Core.xml
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\Microsoft.OData.Edm.xml
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\Microsoft.Spatial.xml
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\System.Web.OData.xml
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\Newtonsoft.Json.xml
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\System.Net.Http.Formatting.xml
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\System.Web.Http.xml
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\System.Web.Http.WebHost.xml
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\de\Microsoft.OData.Core.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\es\Microsoft.OData.Core.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\fr\Microsoft.OData.Core.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\it\Microsoft.OData.Core.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\ja\Microsoft.OData.Core.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\ko\Microsoft.OData.Core.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\ru\Microsoft.OData.Core.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\de\Microsoft.OData.Edm.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\es\Microsoft.OData.Edm.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\fr\Microsoft.OData.Edm.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\it\Microsoft.OData.Edm.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\ja\Microsoft.OData.Edm.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\ko\Microsoft.OData.Edm.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\ru\Microsoft.OData.Edm.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\de\Microsoft.Spatial.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\es\Microsoft.Spatial.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\fr\Microsoft.Spatial.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\it\Microsoft.Spatial.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\ja\Microsoft.Spatial.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\ko\Microsoft.Spatial.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\ru\Microsoft.Spatial.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\zh-Hans\Microsoft.Spatial.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\bin\zh-Hant\Microsoft.Spatial.resources.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\obj\Debug\MyTeamDemo.dll
+\\crtlpfs\cr_tlpusers01\kahassan\visual studio 2015\Projects\MyTeamDemo\MyTeamDemo\obj\Debug\MyTeamDemo.pdb
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\roslyn\csc.exe
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\roslyn\System.Collections.Immutable.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\roslyn\System.Reflection.Metadata.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\roslyn\vbc.exe
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\roslyn\VBCSCompiler.exe.config
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\roslyn\VBCSCompiler.exe
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\MyTeamDemo.dll.config
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\MyTeamDemo.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\MyTeamDemo.pdb
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\Microsoft.Extensions.DependencyInjection.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\Microsoft.OData.Core.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\Microsoft.OData.Edm.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\Microsoft.Spatial.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\Newtonsoft.Json.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\System.Net.Http.Formatting.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\System.Web.Http.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\System.Web.Http.WebHost.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\System.Web.OData.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\Microsoft.Extensions.DependencyInjection.xml
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\Microsoft.OData.Core.xml
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\Microsoft.OData.Edm.xml
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\Microsoft.Spatial.xml
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\System.Web.OData.xml
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\Newtonsoft.Json.xml
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\System.Net.Http.Formatting.xml
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\System.Web.Http.xml
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\System.Web.Http.WebHost.xml
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\de\Microsoft.OData.Core.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\es\Microsoft.OData.Core.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\fr\Microsoft.OData.Core.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\it\Microsoft.OData.Core.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\ja\Microsoft.OData.Core.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\ko\Microsoft.OData.Core.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\ru\Microsoft.OData.Core.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\de\Microsoft.OData.Edm.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\es\Microsoft.OData.Edm.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\fr\Microsoft.OData.Edm.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\it\Microsoft.OData.Edm.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\ja\Microsoft.OData.Edm.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\ko\Microsoft.OData.Edm.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\ru\Microsoft.OData.Edm.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\de\Microsoft.Spatial.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\es\Microsoft.Spatial.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\fr\Microsoft.Spatial.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\it\Microsoft.Spatial.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\ja\Microsoft.Spatial.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\ko\Microsoft.Spatial.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\ru\Microsoft.Spatial.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\zh-Hans\Microsoft.Spatial.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\zh-Hant\Microsoft.Spatial.resources.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\obj\Debug\MyTeamDemo.csprojResolveAssemblyReference.cache
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\obj\Debug\MyTeamDemo.dll
+H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\obj\Debug\MyTeamDemo.pdb
