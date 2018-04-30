@@ -128,6 +128,5 @@ H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\ko\Microsoft.Spatial.re
 H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\ru\Microsoft.Spatial.resources.dll
 H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\zh-Hans\Microsoft.Spatial.resources.dll
 H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\bin\zh-Hant\Microsoft.Spatial.resources.dll
-H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\obj\Debug\MyTeamDemo.csprojResolveAssemblyReference.cache
 H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\obj\Debug\MyTeamDemo.dll
 H:\mike\temp\Source\asp dotNet\MyTeamDemo\MyTeamDemo\obj\Debug\MyTeamDemo.pdb

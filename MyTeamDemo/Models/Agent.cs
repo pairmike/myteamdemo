@@ -17,5 +17,6 @@ namespace MyTeamDemo.Models
         public string Name { get; set; }
         public string AgentLevel { get; set; }
 
+        public String UplineCode { get; set; }
     }
 }
